@@ -23,4 +23,3 @@ print(
     "\n" + "=" * 30)
 print("Tip included:", tip > 0)
 print("Bill over 5000 KZT:", total > 5000)
-# test
